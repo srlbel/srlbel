@@ -1,16 +1,15 @@
 [![MasterHead](./banner.png)](https://www.github.com/SrLebel)
 
-<!--
-**SrLebel/SrLebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! ✋
+This is my dump site for coding!
+- 🔭 I'm currently working on my website!
+- 🌱 I'm currently learning SvelteJS
+- 👯 I’m looking to collaborate on Web Projects!
+- 📫 My main languages are JavaScript and Rust
+- 🥥 The best color pallete is @catppuccin
 
-Here are some ideas to get you started:
+## Socials
+- <a target="blank" href="x.com/ThyLebelSr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> </a>
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
