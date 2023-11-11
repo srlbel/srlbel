@@ -9,7 +9,8 @@ This is my dump site for coding!
 - 🥥 The best color pallete is @catppuccin
 
 ## Socials
-- <a target="blank" href="x.com/ThyLebelSr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> </a>
+<a target="blank" href="x.com/ThyLebelSr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height=40 width=40/> </a>
           
+## Cards
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
