@@ -13,4 +13,4 @@ This is my dump site for coding!
           
 ## Cards
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThyLebelSr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLebel)](https://github.com/anuraghazra/github-readme-stats)
