@@ -1,9 +1,7 @@
 [![MasterHead](./banner.png)](https://www.github.com/SrLebel)
 
 This is my dump site for coding!
-- 🔭 I'm currently working on my website!
-- 🌱 I'm currently learning SvelteJS
-- 📫 My main languages are JavaScript and Rust
+I'm currently working on my website!
 
 | Group | Name |
 | :---: | :---: |
