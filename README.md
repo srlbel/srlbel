@@ -6,7 +6,7 @@
   •
   <a href="mailto:dev.juansimancas@proton.me">email</a>
   •
-  <a href="x.com/srlbel">X</a>
+  <a href="https://x.com/srlbel">X</a>
 </div>
 
 Interested in:
