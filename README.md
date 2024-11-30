@@ -2,7 +2,7 @@
   <h2>
     This is my dump site for coding!
   </h2>
-  <a href="srlbel.is-a.dev">website</a>
+  <a href="https://srlbel.is-a.dev">website</a>
   •
   <a href="mailto:dev.juansimancas@proton.me">email</a>
   •
