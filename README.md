@@ -12,7 +12,6 @@
 Interested in:
  - Low Level Programming
  - Web Development
- - Embedded Systems Programming
  - Games Development
 
 Currently Working on:
