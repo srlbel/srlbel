@@ -16,5 +16,4 @@ Interested in:
 
 Currently Working on:
  - Personal Website
- - Fullstack Open Course
  - A Secret Project ;)
