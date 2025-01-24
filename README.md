@@ -16,4 +16,5 @@ Interested in:
 
 Currently Working on:
  - Personal Website
+ - 100 Exercises of Rust
  - A Secret Project ;)
