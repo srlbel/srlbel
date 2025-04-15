@@ -16,3 +16,9 @@ Interested in:
 
 Currently Working on:
  - A Secret Project ;)
+
+
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srlbel&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srlbel&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srlbel&theme=gruvbox" />
