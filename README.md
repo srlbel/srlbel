@@ -11,5 +11,5 @@
 
 Interested in:
  - Low Level Programming
- - Web Development
+ - Infrastructure
  - Games Development
